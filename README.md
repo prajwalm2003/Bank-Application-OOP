@@ -2,7 +2,7 @@
 
 
 
-A simple console-based banking system built using Java to demonstrate core Object-Oriented Programming (OOP) concepts.
+A banking system built using Java to demonstrate core Object-Oriented Programming (OOP) concepts.
 
 
 
